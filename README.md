@@ -131,3 +131,13 @@ This project uses a simple Convolutional Neural Network (CNN). The architecture 
 5.  **Dense** (1 unit, Sigmoid activation) - *Output Layer*
 
 The model is compiled with the `adam` optimizer and `binary_crossentropy` loss, which is standard for two-class classification.
+
+Train  Images:
+<img width="1345" height="743" alt="Screenshot 2025-10-25 083429" src="https://github.com/user-attachments/assets/a29862b6-8380-4a7b-a8c6-ef85766ab719" />
+<img width="1377" height="697" alt="Screenshot 2025-10-25 083446" src="https://github.com/user-attachments/assets/76f9047e-bd2b-40f6-873c-21f13aa1d5d3" />
+<img width="1536" height="1004" alt="Screenshot 2025-10-25 083634" src="https://github.com/user-attachments/assets/0629e550-56ff-4015-85ad-75b241fac0e2" />
+
+
+Test Images:
+<img width="1315" height="724" alt="Screenshot 2025-10-25 083410" src="https://github.com/user-attachments/assets/7e6d00dc-d092-4a54-9365-5c81b427fd5d" />
+<img width="1644" height="1041" alt="Screenshot 2025-10-25 083528" src="https://github.com/user-attachments/assets/c60a9ee9-90c4-4075-8f9c-6d99fa79ee19" />
